@@ -7,15 +7,15 @@ O objetivo principal é identificar tendências, possibilidades de mudanças e m
 
 ### 2. Dados Disponíveis
 Os dados disponíveis para análise incluem:
-- 2.1 Avaliação Quantitativa
+ 2.1 Avaliação Quantitativa
 Organização do PDL: Feedback sobre dinâmicas, comunicação e experiência geral.
 Metodologia e Instrutores: Relevância dos conteúdos, aplicabilidade no ambiente de trabalho e engajamento dos participantes.
 Infraestrutura: Avaliações sobre o conforto do espaço, recursos disponíveis e alimentação.
 Evento de Encerramento: Percepções sobre a adequação das atividades e o reforço do aprendizado.
-- 2.2 Comentários Qualitativos
+ 2.2 Comentários Qualitativos
 Sugestões e críticas registradas pelos participantes sobre diferentes aspectos do programa.
 
 ### 3. Links e Recursos
--Link para o Dashboard (inserir link após a criação)
--Link para o Relatório Executivo (inserir link após a criação)
+- Link para o Dashboard (inserir link após a criação)
+- Link para o Relatório Executivo (inserir link após a criação)
 
