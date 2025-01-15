@@ -1,6 +1,6 @@
 # Avaliação de Reação - Programa de Desenvolvimento de Lideranças (PDL) - 2024 <br>
 
-Postalis - Gerência de Gente e Gestão (CGGE)
+## Postalis - Gerência de Gente e Gestão (CGGE)
 
 ## 1. Contexto
 Este repositório contém a análise da avaliação de reação do Programa de Desenvolvimento de Lideranças (PDL) 2024, realizado pelo Postalis. O programa foi criado para capacitar líderes e futuros líderes da organização, desenvolvendo suas competências de gestão e liderança. O questionário foi respondido por 36 participantes, em dezembro de 2024.
