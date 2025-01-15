@@ -15,7 +15,7 @@ Evento de Encerramento: Percepções sobre a adequação das atividades e o refo
 ### 2.2 Comentários Qualitativos
 Sugestões e críticas registradas pelos participantes sobre diferentes aspectos do programa.
 
-### 3. Links e Recursos
+## 3. Links e Recursos
 - Link para o Dashboard (inserir link após a criação)
 - Link para o Relatório Executivo (inserir link após a criação)
 
