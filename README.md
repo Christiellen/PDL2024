@@ -19,5 +19,5 @@ Sugestões e críticas registradas pelos participantes sobre diferentes aspectos
 
 ## 3. Links e Recursos
 - Link para o [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTYzZjBlZTItODVhYy00M2IzLTg0OTMtYmNjYzA5ZTZjNjExIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9)
-- Link para o [Relatório Executivo](https://github.com/Christiellen/PDL2024/blob/main/Relat%C3%B3rio%20Executivo%20-%20PDL2024%20-%20com%20devida%20informa%C3%A7%C3%A3o%20da%20fonte%20de%20design.pdf))
+- Link para o [Relatório Executivo](https://github.com/Christiellen/PDL2024/blob/main/Relat%C3%B3rio%20Executivo%20-%20PDL2024%20-%20com%20devida%20informa%C3%A7%C3%A3o%20da%20fonte%20de%20design.pdf)
 
